@@ -260,7 +260,3 @@ elif lines[1]=="2":
 n.show_toast("File Directory", "Your files have been copied successfully", icon_path=None, duration = 30, threaded=False)
 
     
-#F:\Subhra_Project\proj
-#H:\My Photo Album\Dadabhai wedding\Babai\Portrait 2
-#H:\My Photo Album\Dadabhai wedding\Babai Biyer Album
-#C:\Users\USER\Desktop
