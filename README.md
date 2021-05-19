@@ -1,4 +1,4 @@
-# File-Handling-System.
+# File-Handling-Software.
 I did this project for a Wedding and Photography agency, where they had a major file searching and handling problem. The problem statement being-
 Working for a client they generally end up with 8000 - 10,000 raw (.NEF) images. Being in a raw file state they had to alter the files to .JPG or .PNG formats and give them to the client to select the files  they wished to add in the album. The client generally returns a folder containing about 200 - 500 photos that they want in the album. Now this agency had to manually search these 500 photos from a possible 10,000 raw images by their names, for editing, which consumed time and money. My job was to make this process easier.
 So, I designed a software which takes the two folders, the folder containing all the raw files and the folder containing the images returned by the user, and compares these images irrespective of the format they are in. Comparing based on the image name, and picks out the raw image and copies them in a different folder that it creates. Using two text files as a medium to store and read inputs in the process.
